@@ -1,3 +1,8 @@
+require('./bootstrap');
+require('./assets/css/style.css');
+require('./assets/css/card.css');
+require('./plugins');
+
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'

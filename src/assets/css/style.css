@@ -1,0 +1,18 @@
+.input-rep {
+    height: 40px;
+    font-size: 23px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-color: #7dbae7;
+    width: 28%;
+}
+
+.btn-input {
+    height: 46px;
+    font-size: 23px;
+    background: #9cdaef;
+    border-color: #9cdaef;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+}
