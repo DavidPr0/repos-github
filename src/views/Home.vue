@@ -11,6 +11,8 @@
 <script>
 // @ is an alias to /src
 // import 'bootstrap';
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Repositorio from '@/components/Repositorios.vue';
 import Input from '@/components/input';
 import Card from '@/components/card';
@@ -24,10 +26,5 @@ export default {
     Input,
     Card
   },
-  // computed: {
-  //   ...mapState({
-  //     repositorios: state => state.repositorios.items
-  //   })
-  // },
 }
 </script>
